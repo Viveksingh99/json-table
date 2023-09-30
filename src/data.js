@@ -142,7 +142,6 @@ const jsonData =
     "OPEN_INT": 316275,
     "CHG_IN_OI": 215850,
     "TIMESTAMP": "25-SEP-2023",
-    "": ""
   },
   {
     "INSTRUMENT": "FUTIDX",

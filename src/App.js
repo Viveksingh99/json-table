@@ -1,15 +1,14 @@
-import React, { Component } from 'react';
 import './App.css';
 import DataTable from './DataTable';
+import React from 'react'
 
-class App extends Component {
-  render() {
-    return (
-      <div>
+const App = () => {
+  return (
+    <div>
+      <h1 style={{textAlign:'center'}}>Json Table</h1>
       <DataTable/>
-      </div>
-    );
-  }
+    </div>
+  )
 }
 
-export default App;
+export default App
